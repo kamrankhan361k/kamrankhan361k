@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ahmad Ali</h1>
+<h1 align="center">Hi 👋, I'm Kamran khan</h1>
 <h3 align="center">A passionate fullstack web developer from Pakistan</h3>
 
 - 🔭 I’m currently working on [e-commerce Project](http://offerbaries.com)
 
 - 💬 Ask me about **Html, Css, Js, React, Redux, PHP, Laravel, SQL, Firebase, Python, Django**
 
-- 📫 How to reach me **ahmadalikhan0310@gmail.com**
+- 📫 How to reach me **kamrankhan384k@gmail.com**
 
 - ⚡ Fun fact **I think i am funny**
 
