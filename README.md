@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/kamran-khan-467888229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad-ali-0310" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/users/15267315/ahmad-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/15267315/ahmad-ali" height="30" width="40" /></a>
-<a href="https://fb.com/hitman0309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hitman0309" height="30" width="40" /></a>
+<a href="https://[https://www.facebook.com/profile.php?id=100027138912908]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hitman0309" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
