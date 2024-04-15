@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kamran khan</h1>
 <h3 align="center">A passionate fullstack web developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [e-commerce Project](http://offerbaries.com)
+- 🔭 I’m currently working on [e-commerce Project](https://offersberries.com)
 
 - 💬 Ask me about **Html, Css, Js, React, Redux, PHP, Laravel, SQL, Firebase, Python, Django**
 
