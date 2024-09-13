@@ -39,4 +39,14 @@ I’m currently working on an exciting [E-commerce Project](https://offersberrie
 ---
 
 I love working on challenging projects and am always eager to explore new technologies in both web development and AI. Feel free to check out my repositories or reach out to collaborate on exciting projects!
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kamrankhan361k)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+
+
+<a href="https://github.com/kamrankhan361k/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kamrankhan361k&show_icons=true&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/kamrankhan361k/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamrankhan361k&layout=compact&langs_count=8&card_width=320&theme=radical&hide_border=true" />
+</a>
